@@ -1,6 +1,6 @@
-# Machine-Learning-L1
+# Machine-Learning-L2
 
-Mentorship Repository for Machine Learning Type = Level 1
+Mentorship Repository for Machine Learning Type = Level 2
 
 ## Repository Navigation Guide
 * Mentor needs to fork this repository
